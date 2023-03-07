@@ -1,0 +1,20 @@
+{
+  "name": "coin-collector",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202273653-1c259f67-7b01-46fc-8e4d-ccb804649e27.jpg)",
+  "main": "coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uh-git/coin-collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uh-git/coin-collector/issues"
+  },
+  "homepage": "https://github.com/uh-git/coin-collector#readme"
+}

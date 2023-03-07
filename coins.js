@@ -13,5 +13,4 @@ const coins = [
 ];
 
 // your code
-// export the coins array
-module.exports = coins;
+module.exports = coins
